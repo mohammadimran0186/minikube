@@ -45,4 +45,4 @@ minikube start --driver=docker
 minikube status
 By following these steps, you can set up a local Kubernetes cluster on your macOS system using Minikube with Docker as the driver.
 
-![image](https://github.com/mohammadimran0186/minikube/assets/141118387/6f2d0764-ece7-4e7b-a42c-5c99100913cd)
+
